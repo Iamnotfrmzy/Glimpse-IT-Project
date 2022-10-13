@@ -1,0 +1,63 @@
+
+		body {
+			background-color: rgb(236, 29, 14);
+			font-family: Verdana;
+			text-align: center;
+			background-image: url("./GLIMPSE-Solutions-2-1 (1).png");
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-blend-mode: overlay;
+			
+		}
+
+		form {
+			background-color: rgb(236, 29, 14);
+			max-width: 500px;
+			margin: 50px auto;
+			padding: 30px 20px;
+			box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+			border-radius: 10px;
+		}
+
+		.form-control {
+			text-align: left;
+			margin-bottom: 25px;
+		}
+
+	
+		.form-control label {
+			display: block;
+			margin-bottom: 10px;
+		}
+
+		.form-control input,
+		.form-control select,
+		.form-control textarea {
+			border: 1px solid #777;
+			border-radius: 2px;
+			font-family: inherit;
+			padding: 10px;
+			display: block;
+			width: 95%;
+		}
+
+	
+		.form-control input[type="radio"],
+		.form-control input[type="checkbox"] {
+			display: inline-block;
+			width: auto;
+        }
+		button {
+			background-color: whitesmoke;
+			border: 1px solid rgb(161, 151, 136);
+			border-radius: 2px;
+			font-family: inherit;
+			font-size: 21px;
+			display: block;
+			width: 100%;
+			margin-top: 50px;
+			margin-bottom: 20px;
+		}
+	
+		
